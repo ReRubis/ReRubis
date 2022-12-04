@@ -8,6 +8,7 @@ Hello-oo, I’m @ReRubis and @ReRubis is me. :D
 Interested in buildind Python back-end applications. 
 Currently learning FastAPI and working on my discord bot. 
 
+
 <br />
 <br />
 
@@ -25,5 +26,4 @@ Currently learning FastAPI and working on my discord bot.
 
 
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/390584800559366145)
-[![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](slesarenkod@gmail.com)
 
