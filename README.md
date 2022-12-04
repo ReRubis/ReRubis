@@ -1,12 +1,29 @@
+
+
+<h1 align="center">Hi!" /></h1>
+
+<br />
+
 Hello-oo, I’m @ReRubis and @ReRubis is me. :D 
 I’m interested in building back-end for different applications.
 Currently learning FastAPI and love it!
-Also working on my discord bot. It's almost alive. :)
 
-If you want to reach me for some reason... 
-slesarenkod@gmail.com
+<br />
+<br />
 
-<!---
-ReRubis/ReRubis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
+
+
+<br />
+<br />
+
+<div align="center">
+
+
+[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/390584800559366145)
+[![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://slesarenkod@gmail.com)
+
