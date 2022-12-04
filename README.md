@@ -14,6 +14,7 @@ Currently learning FastAPI and working on my discord bot.
 
 <div align="center">
 
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
 ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
