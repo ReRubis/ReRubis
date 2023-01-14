@@ -4,9 +4,8 @@
 
 <br />
 
-Hello-oo, I’m @ReRubis and @ReRubis is me. :D 
-Interested in buildind Python back-end applications. 
-Currently learning FastAPI and working on my discord bot. 
+Hello-oo, I’m ReRubis and ReRubis is me. :D  
+Developing backends for REST API projects.  
 
 
 <br />
