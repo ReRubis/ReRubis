@@ -6,7 +6,7 @@
 
 Hello-oo, I’m ReRubis and ReRubis is me. :D  
 Developing backends for REST API projects.  
-
+Passionate about learning new stuff.
 
 <br />
 <br />
